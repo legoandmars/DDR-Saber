@@ -111,7 +111,6 @@
     <Compile Include="HarmonyPatches\Patches\NoteJumpPatch.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Logger.cs" />
-    <Compile Include="Configuration\PluginConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

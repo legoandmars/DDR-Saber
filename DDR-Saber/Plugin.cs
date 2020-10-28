@@ -3,13 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using IPA;
-using IPA.Config;
-using IPA.Config.Stores;
 using UnityEngine.SceneManagement;
-using UnityEngine;
 using IPALogger = IPA.Logging.Logger;
 using DDR_Saber.HarmonyPatches;
-using BS_Utils.Utilities;
 using BS_Utils.Gameplay;
 
 namespace DDR_Saber
